@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\College\\Year 3\\App dev\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|d:\\college\\year 3\\app dev\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|d:\\college\\year 3\\app dev\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|d:\\college\\year 3\\app dev\\service\\userregistrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|solutionrelative:service\\userregistrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|d:\\college\\year 3\\app dev\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|d:\\college\\year 3\\app dev\\dto\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|solutionrelative:dto\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|d:\\college\\year 3\\app dev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|d:\\college\\year 3\\app dev\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|solutionrelative:service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|d:\\college\\year 3\\app dev\\repo\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|solutionrelative:repo\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|d:\\college\\year 3\\app dev\\repo\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|solutionrelative:repo\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|d:\\college\\year 3\\app dev\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|solutionrelative:entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|d:\\college\\year 3\\app dev\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|solutionrelative:migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|d:\\college\\year 3\\app dev\\migrations\\20250328154811_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|solutionrelative:migrations\\20250328154811_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "D:\\College\\Year 3\\App dev\\Repo\\UserRepo.cs",
+              "RelativeDocumentMoniker": "Repo\\UserRepo.cs",
+              "ToolTip": "D:\\College\\Year 3\\App dev\\Repo\\UserRepo.cs",
+              "RelativeToolTip": "Repo\\UserRepo.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAqwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T02:14:16.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserRepo.cs",
+              "DocumentMoniker": "D:\\College\\Year 3\\App dev\\Repo\\IUserRepo.cs",
+              "RelativeDocumentMoniker": "Repo\\IUserRepo.cs",
+              "ToolTip": "D:\\College\\Year 3\\App dev\\Repo\\IUserRepo.cs",
+              "RelativeToolTip": "Repo\\IUserRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T01:49:36.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\College\\Year 3\\App dev\\Service\\IUserService.cs",
+              "RelativeDocumentMoniker": "Service\\IUserService.cs",
+              "ToolTip": "D:\\College\\Year 3\\App dev\\Service\\IUserService.cs",
+              "RelativeToolTip": "Service\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T02:02:05.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRegistrationService.cs",
+              "DocumentMoniker": "D:\\College\\Year 3\\App dev\\Service\\UserRegistrationService.cs",
+              "RelativeDocumentMoniker": "Service\\UserRegistrationService.cs",
+              "ToolTip": "D:\\College\\Year 3\\App dev\\Service\\UserRegistrationService.cs",
+              "RelativeToolTip": "Service\\UserRegistrationService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T02:25:48.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\College\\Year 3\\App dev\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "D:\\College\\Year 3\\App dev\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T03:09:01.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\College\\Year 3\\App dev\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\College\\Year 3\\App dev\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowEwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T01:48:28.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\College\\Year 3\\App dev\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\College\\Year 3\\App dev\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T01:38:22.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRegisterDTO.cs",
+              "DocumentMoniker": "D:\\College\\Year 3\\App dev\\DTO\\UserRegisterDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\UserRegisterDTO.cs",
+              "ToolTip": "D:\\College\\Year 3\\App dev\\DTO\\UserRegisterDTO.cs",
+              "RelativeToolTip": "DTO\\UserRegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T02:57:38.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\College\\Year 3\\App dev\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\College\\Year 3\\App dev\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-28T15:55:16.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\College\\Year 3\\App dev\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Entities\\User.cs",
+              "ToolTip": "D:\\College\\Year 3\\App dev\\Entities\\User.cs",
+              "RelativeToolTip": "Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T01:54:16.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDBContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\College\\Year 3\\App dev\\Migrations\\ApplicationDBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ApplicationDBContextModelSnapshot.cs",
+              "ToolTip": "D:\\College\\Year 3\\App dev\\Migrations\\ApplicationDBContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ApplicationDBContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T15:48:14.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250328154811_Initial.cs",
+              "DocumentMoniker": "D:\\College\\Year 3\\App dev\\Migrations\\20250328154811_Initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250328154811_Initial.cs",
+              "ToolTip": "D:\\College\\Year 3\\App dev\\Migrations\\20250328154811_Initial.cs",
+              "RelativeToolTip": "Migrations\\20250328154811_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T15:48:11.31Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
