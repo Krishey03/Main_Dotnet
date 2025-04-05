@@ -19,10 +19,11 @@ namespace web_api.Service
             _userRepo = userRepo;
         }
 
-        public bool FindUser(string email)
+        public User FindUser(string email)
         {
-            return users.Any(user => user.Email == email);
+            return _userRepo.GetUserByEmail(email); // Returns null if not found
         }
+
 
         public bool AddUser(UserRegisterDTO user)
         {
@@ -60,26 +61,26 @@ namespace web_api.Service
             return false;
         }
 
-       public bool UpdateUser(string email, UserRegisterDTO updatedUser)
-{
-    var existingUser = _userRepo.GetUserByEmail(email);
-    if (existingUser != null)
-    {
-        // Update the user properties
-        existingUser.Email = updatedUser.Email;
-        existingUser.Phone = updatedUser.Phone;
-        existingUser.Name = updatedUser.UserName;
-        existingUser.Password = updatedUser.Password;
-        existingUser.Username = updatedUser.UserName;
+        public bool UpdateUser(string email, UserRegisterDTO updatedUser)
+        {
+            email = email.Trim().ToLower(); // Normalize the email
+            var existingUser = _userRepo.GetUserByEmail(email);
 
-        // Save the updated user back to the repository
-        _userRepo.UpdateUser(existingUser);
+            if (existingUser != null)
+            {
+                existingUser.Email = updatedUser.Email.Trim().ToLower(); // Also normalize the new email
+                existingUser.Phone = updatedUser.Phone;
+                existingUser.Name = updatedUser.UserName;
+                existingUser.Password = updatedUser.Password;
+                existingUser.Username = updatedUser.UserName;
 
-        return true;
-    }
-    return false;
-}
+                _userRepo.UpdateUser(existingUser);
+                return true;
+            }
+            return false;
+        }
 
-     
+
+
     }
 }

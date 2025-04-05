@@ -1,54 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\College\\Year 3\\App dev\\",
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\DotnetCrud\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|d:\\college\\year 3\\app dev\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|c:\\users\\lenovo\\source\\repos\\dotnetcrud\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|d:\\college\\year 3\\app dev\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|c:\\users\\lenovo\\source\\repos\\dotnetcrud\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|d:\\college\\year 3\\app dev\\service\\userregistrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|solutionrelative:service\\userregistrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|d:\\college\\year 3\\app dev\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|d:\\college\\year 3\\app dev\\dto\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|solutionrelative:dto\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|d:\\college\\year 3\\app dev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|c:\\users\\lenovo\\source\\repos\\dotnetcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|d:\\college\\year 3\\app dev\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|c:\\users\\lenovo\\source\\repos\\dotnetcrud\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|c:\\users\\lenovo\\source\\repos\\dotnetcrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|c:\\users\\lenovo\\source\\repos\\dotnetcrud\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|solutionrelative:service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|d:\\college\\year 3\\app dev\\repo\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|solutionrelative:repo\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|c:\\users\\lenovo\\source\\repos\\dotnetcrud\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|d:\\college\\year 3\\app dev\\repo\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|solutionrelative:repo\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|d:\\college\\year 3\\app dev\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|c:\\users\\lenovo\\source\\repos\\dotnetcrud\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|solutionrelative:entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|d:\\college\\year 3\\app dev\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|solutionrelative:migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|c:\\users\\lenovo\\source\\repos\\dotnetcrud\\dto\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|solutionrelative:dto\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|d:\\college\\year 3\\app dev\\migrations\\20250328154811_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|solutionrelative:migrations\\20250328154811_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|c:\\users\\lenovo\\source\\repos\\dotnetcrud\\service\\userregistrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|solutionrelative:service\\userregistrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|c:\\users\\lenovo\\source\\repos\\dotnetcrud\\repo\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|solutionrelative:repo\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|c:\\users\\lenovo\\source\\repos\\dotnetcrud\\repo\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|solutionrelative:repo\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|c:\\users\\lenovo\\source\\repos\\dotnetcrud\\web_api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{874C4CB0-3A39-439E-B99D-94CCCA16C61E}|web_api.csproj|solutionrelative:web_api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,102 +74,140 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\DotnetCrud\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\DotnetCrud\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-05T10:32:00.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\DotnetCrud\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\DotnetCrud\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-05T10:27:52.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "web_api",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\DotnetCrud\\web_api.csproj",
+              "RelativeDocumentMoniker": "web_api.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\DotnetCrud\\web_api.csproj",
+              "RelativeToolTip": "web_api.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-05T09:27:17.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "UserRepo.cs",
-              "DocumentMoniker": "D:\\College\\Year 3\\App dev\\Repo\\UserRepo.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\DotnetCrud\\Repo\\UserRepo.cs",
               "RelativeDocumentMoniker": "Repo\\UserRepo.cs",
-              "ToolTip": "D:\\College\\Year 3\\App dev\\Repo\\UserRepo.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\DotnetCrud\\Repo\\UserRepo.cs",
               "RelativeToolTip": "Repo\\UserRepo.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAqwDcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAwDcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-23T02:14:16.167Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "IUserRepo.cs",
-              "DocumentMoniker": "D:\\College\\Year 3\\App dev\\Repo\\IUserRepo.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\DotnetCrud\\Repo\\IUserRepo.cs",
               "RelativeDocumentMoniker": "Repo\\IUserRepo.cs",
-              "ToolTip": "D:\\College\\Year 3\\App dev\\Repo\\IUserRepo.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\DotnetCrud\\Repo\\IUserRepo.cs",
               "RelativeToolTip": "Repo\\IUserRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-30T01:49:36.43Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "IUserService.cs",
-              "DocumentMoniker": "D:\\College\\Year 3\\App dev\\Service\\IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\DotnetCrud\\Service\\IUserService.cs",
               "RelativeDocumentMoniker": "Service\\IUserService.cs",
-              "ToolTip": "D:\\College\\Year 3\\App dev\\Service\\IUserService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\DotnetCrud\\Service\\IUserService.cs",
               "RelativeToolTip": "Service\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-30T02:02:05.442Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "UserRegistrationService.cs",
-              "DocumentMoniker": "D:\\College\\Year 3\\App dev\\Service\\UserRegistrationService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\DotnetCrud\\Service\\UserRegistrationService.cs",
               "RelativeDocumentMoniker": "Service\\UserRegistrationService.cs",
-              "ToolTip": "D:\\College\\Year 3\\App dev\\Service\\UserRegistrationService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\DotnetCrud\\Service\\UserRegistrationService.cs",
               "RelativeToolTip": "Service\\UserRegistrationService.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAgwAUAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAqwFYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-23T02:25:48.071Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "D:\\College\\Year 3\\App dev\\WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\DotnetCrud\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "WeatherForecast.cs",
-              "ToolTip": "D:\\College\\Year 3\\App dev\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\DotnetCrud\\WeatherForecast.cs",
               "RelativeToolTip": "WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-30T03:09:01.355Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "D:\\College\\Year 3\\App dev\\Controllers\\WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\DotnetCrud\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
-              "ToolTip": "D:\\College\\Year 3\\App dev\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\DotnetCrud\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAowEwAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAQwIAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-02T01:48:28.795Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\College\\Year 3\\App dev\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\DotnetCrud\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\College\\Year 3\\App dev\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\DotnetCrud\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-09T01:38:22.867Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "UserRegisterDTO.cs",
-              "DocumentMoniker": "D:\\College\\Year 3\\App dev\\DTO\\UserRegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\DotnetCrud\\DTO\\UserRegisterDTO.cs",
               "RelativeDocumentMoniker": "DTO\\UserRegisterDTO.cs",
-              "ToolTip": "D:\\College\\Year 3\\App dev\\DTO\\UserRegisterDTO.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\DotnetCrud\\DTO\\UserRegisterDTO.cs",
               "RelativeToolTip": "DTO\\UserRegisterDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -174,54 +216,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\College\\Year 3\\App dev\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\DotnetCrud\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\College\\Year 3\\App dev\\appsettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\DotnetCrud\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB9AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-03-28T15:55:16.671Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "User.cs",
-              "DocumentMoniker": "D:\\College\\Year 3\\App dev\\Entities\\User.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\DotnetCrud\\Entities\\User.cs",
               "RelativeDocumentMoniker": "Entities\\User.cs",
-              "ToolTip": "D:\\College\\Year 3\\App dev\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\DotnetCrud\\Entities\\User.cs",
               "RelativeToolTip": "Entities\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-16T01:54:16.722Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ApplicationDBContextModelSnapshot.cs",
-              "DocumentMoniker": "D:\\College\\Year 3\\App dev\\Migrations\\ApplicationDBContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "Migrations\\ApplicationDBContextModelSnapshot.cs",
-              "ToolTip": "D:\\College\\Year 3\\App dev\\Migrations\\ApplicationDBContextModelSnapshot.cs",
-              "RelativeToolTip": "Migrations\\ApplicationDBContextModelSnapshot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T15:48:14.194Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "20250328154811_Initial.cs",
-              "DocumentMoniker": "D:\\College\\Year 3\\App dev\\Migrations\\20250328154811_Initial.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250328154811_Initial.cs",
-              "ToolTip": "D:\\College\\Year 3\\App dev\\Migrations\\20250328154811_Initial.cs",
-              "RelativeToolTip": "Migrations\\20250328154811_Initial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T15:48:11.31Z",
               "EditorCaption": ""
             }
           ]
